@@ -1,6 +1,6 @@
 # Proyecto de Gestión de PNF
 
-Este proyecto es un sistema de gestión de Programas Nacionales de Formación (PNF) y sus ubicaciones asociadas, incluyendo aldeas y parroquias. A continuación se detallan las características y la estructura del proyecto.
+Este proyecto es un sistema de Registro e Información para los Programas Nacionales de Formación (PNF) y sus ubicaciones asociadas, incluyendo aldeas y parroquias. A continuación se detallan las características y la estructura del proyecto.
 
 ## Estructura del Proyecto
 
@@ -46,11 +46,7 @@ edixson-1
     └── parroquias.php
 ```
 
-## Descripción de Archivos
-
-Claro, aquí tienes la estructura del proyecto en formato Markdown:
-
-# Estructura del Proyecto
+# Estructura del Proyecto y Descripción de Archivos
 
 ## Archivos Raíz
 
